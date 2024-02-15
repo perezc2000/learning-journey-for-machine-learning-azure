@@ -1,0 +1,9 @@
+# Jupiter Notebooks
+*.ipynb:Zone.Identifier
+.ipynb_checkpoints
+
+# Python
+*_pycache_*
+*.pkl
+*.py[cod]
+*$py.class
